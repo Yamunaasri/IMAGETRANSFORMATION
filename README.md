@@ -55,9 +55,7 @@ plt.axis('off')
 plt.imshow(trans_img)
 plt.show() 
 ```
-
 iii)Image shearing
-
 ```
 import numpy as np
 import cv2
@@ -80,7 +78,6 @@ plt.axis('off')
 plt.imshow(sheared_img_y)
 plt.show()
 ```
-
 iv)Image Reflection
 ```
 import numpy as np
@@ -104,8 +101,6 @@ plt.axis('off')
 plt.imshow(reflect_y)
 plt.show()  
 ```
-
-
 v)Image Rotation
 ```
 import numpy as np
@@ -123,8 +118,6 @@ plt.axis('off')
 plt.imshow(rotated_img)
 plt.show()  
 ```
-
-
 vi)Image Cropping
 ```
 import numpy as np
@@ -140,60 +133,44 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-<br>
+
 ![Screenshot 2023-09-12 090835](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/54e2152f-c83e-4061-8177-bb74294bc668)
 
-<br>
 
 ### ii) Image Scaling
-<br>
-![Screenshot 2023-09-12 090909](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/05e8cbbe-e7a1-46d4-88ff-bf889ba1c2ec)
 
-<br>
+![Screenshot 2023-09-12 090909](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/05e8cbbe-e7a1-46d4-88ff-bf889ba1c2ec)
 
 
 ### iii)Image shearing
-<br>
+
 ![Screenshot 2023-09-12 090939](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/19d978ff-18d1-4857-a87a-e4ab682f001b)
 
 ![Screenshot 2023-09-12 090948](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/150c64c8-1e5b-4727-a027-faaf5cab7695)
 
-<br>
-
 
 ### iv)Image Reflection
-<br>
+
 ![Screenshot 2023-09-12 091135](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/ed31d036-7784-43f7-8d7f-92fe434519f3)
 
-<br>
+
 ![Screenshot 2023-09-12 091143](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/e8a2b4a0-3c33-47b6-b0fa-af78acf55782)
-
-<br>
-
 
 
 ### v)Image Rotation
-<br>
+
 ![Screenshot 2023-09-12 091031](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/052903a6-be7d-46a0-9020-e8412a010d08)
-
-<br>
-
 
 
 ### vi)Image Cropping
-<br>
+
 Original
 
 ![Screenshot 2023-09-12 091255](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/de164b31-dc93-488d-8a35-11012d93d2c1)
 
-<br>
 Cropped
 
 ![Screenshot 2023-09-12 091304](https://github.com/Yamunaasri/IMAGETRANSFORMATION/assets/115707860/0ecbcd91-559e-49e0-952e-a96fab56f2bf)
-
-<br>
-
-
 
 
 ## Result: 
